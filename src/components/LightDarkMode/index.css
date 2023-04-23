@@ -1,0 +1,32 @@
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+  text-align: center;
+  padding: 220px;
+  display: flex;
+  justify-content: center;
+}
+.light-card {
+  background-color: #ffffff;
+  border-width: #000000;
+  border-style: solid;
+  border-radius: 15px;
+  padding: 80px;
+  width: 50%;
+}
+.dark-card {
+  background-color: #000000;
+  color: #ffffff;
+  border-width: #000000;
+  border-style: solid;
+  border-radius: 15px;
+  padding: 80px;
+  width: 50%;
+}
+.btn {
+  padding: 8px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #000000;
+  border-style: solid;
+}
